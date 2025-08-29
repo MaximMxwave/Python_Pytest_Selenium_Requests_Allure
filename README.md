@@ -1,2 +1,2 @@
-# Python_Pytest_Requests
-Автотесты API на Pytest + Requests
+# Python Pytest Requests Selenium
+Автотесты UI · API на Pytest + Requests + Selenium
