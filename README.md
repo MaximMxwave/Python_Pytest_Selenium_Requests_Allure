@@ -61,7 +61,7 @@
 ---
 
 ### Успешное выполнение тестов Pytest
-![image](https://raw.githubusercontent.com/MaximOlesov/Python_Pytest_Requests_Selenium/refs/heads/main/screenshots/passed.png)
+![image]()
 
 Итог выполнения тестов через **Pytest**. Все тесты завершились успешно ✔️
 
