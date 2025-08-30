@@ -91,19 +91,7 @@ source venv/bin/activate
 4. Устанавливаем библиотеки
 
 ``` markdown
-python3 -m pip install requests
-```
-
-``` markdown
-python3 -m pip install pytest
-```
-
-``` markdown
-python3 -m pip install selenium
-```
-
-``` markdown
-python3 -m pip install allure-pytest
+python3 -m pip install -r requirements.txt
 ```
 
 5. Запускаем
