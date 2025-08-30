@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Pytest-8.3-green?logo=pytest" alt="Pytest">
-  <img src="https://img.shields.io/badge/Selenium-latest-brightgreen?logo=selenium" alt="Selenium">
+  <img src="https://img.shields.io/badge/Selenium-brightgreen?logo=selenium" alt="Selenium">
   <img src="https://img.shields.io/badge/Requests-HTTP-orange?logo=fastapi" alt="Requests">
 </p>
 
@@ -106,10 +106,27 @@ python3 -m pip install allure-pytest
 
 5. Запускаем
 ``` markdown
-pytest tests/test_pokemons.py
+pytest tests/api/test_pokemons.py
 ```
 
-Ожидаемый результат: получим отчет о прохождении тестов.
+``` markdown
+pytest tests/web/test_pokemon_web.py
+```
+
+## 📊 Генерация отчётов Allure
+1. Запустить тесты с сохранением результатов
+
+``` markdown
+pytest --alluredir=allure_results
+```
+
+2. Открыть отчёт в браузере
+
+``` markdown
+allure serve allure_results
+```
+
+Ожидаемый результат: формируется отчёт с подробной статистикой по всем автотестам.
 
 
 **👤 Автор:**
