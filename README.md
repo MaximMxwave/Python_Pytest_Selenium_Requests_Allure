@@ -1,10 +1,12 @@
-<h1 align="center">🤖🧪 Автотесты UI & API | Python + Pytest + Selenium + Requests</h1>
+<h1 align="center">🤖🧪 Автотесты UI & API | Python + Pytest + Selenium + Requests + Allure</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/status-active-success?style=flat&logo=github" alt="status">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Pytest-8.3-green?logo=pytest" alt="Pytest">
   <img src="https://img.shields.io/badge/Selenium-brightgreen?logo=selenium" alt="Selenium">
   <img src="https://img.shields.io/badge/Requests-HTTP-orange?logo=fastapi" alt="Requests">
+  <img src="https://img.shields.io/badge/Allure-Reports-orange?logo=allure&logoColor=white" alt="Allure">
 </p>
 
 ---
