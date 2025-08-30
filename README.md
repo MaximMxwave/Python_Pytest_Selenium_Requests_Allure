@@ -50,14 +50,14 @@
 
 ---
 
-### Запуска UI-теста Selenium
+### Запуск UI-теста Selenium
 ![image](https://raw.githubusercontent.com/MaximOlesov/Python_Pytest_Requests_Selenium/refs/heads/main/screenshots/Python-web.png)
 
-Авторизации на сайте **pokemonbattle-stage.ru** через **Selenium WebDriver**. Тест открывает браузер, вводит email и пароль, и проверяет успешный вход.
+Авторизация на сайте **pokemonbattle-stage.ru** через **Selenium WebDriver**. Тест открывает браузер, вводит email и пароль, и проверяет успешный вход.
 
 ---
 
-### Запуска API-теста Requests + Pytest
+### Запуск API-теста Requests + Pytest
 ![image](https://raw.githubusercontent.com/MaximOlesov/Python_Pytest_Requests_Selenium/refs/heads/main/screenshots/Requests-api.png)
 
 Тесты REST API с помощью библиотеки **Requests**. Проверяется корректность кода ответа, имя тренера и параметры в JSON-ответе.
