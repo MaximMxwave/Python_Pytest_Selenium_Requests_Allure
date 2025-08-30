@@ -95,6 +95,7 @@ python3 -m pip install -r requirements.txt
 ```
 
 5. Запускаем
+
 ``` markdown
 pytest tests/api/test_pokemons.py
 ```
