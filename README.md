@@ -96,6 +96,14 @@ python3 -m pip install requests
 python3 -m pip install pytest
 ```
 
+``` markdown
+python3 -m pip install selenium
+```
+
+``` markdown
+python3 -m pip install allure-pytest
+```
+
 5. Запускаем
 ``` markdown
 pytest tests/test_pokemons.py
