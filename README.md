@@ -71,8 +71,12 @@
 
 Итог выполнения тестов через **Pytest**. Все тесты завершились успешно ✔️
 
+---
+
 ### Отчёт Allure
 ![image](https://raw.githubusercontent.com/MaximOlesov/Python_Pytest_Selenium_Requests_Allure/refs/heads/main/screenshots/Allure%20report.png)
+
+---
 
 ## 💻 Локальный запуск тестов из терминала
 1. Скачать проект
